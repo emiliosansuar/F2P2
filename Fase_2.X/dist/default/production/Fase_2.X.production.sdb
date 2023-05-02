@@ -27,9 +27,23 @@
 [v ___lmul __lmul `(ul  1 e 4 0 ]
 "91 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\Umul64.c
 [v ___omul __omul `(uo  1 e 8 0 ]
-"11 C:\Users\Noctis\Documents\Compus-fase-2-practica-2\Fase_2.X\main.c
+"12 C:\Users\Noctis\Documents\Compus-fase-2-practica-2\Fase_2.X\main.c
+[v _setup setup `(v  1 e 1 0 ]
+"16
 [v _main main `(v  1 e 1 0 ]
+"5680 C:\Program Files\Microchip\xc8\v2.41\pic\include\proc\pic18f4321.h
+[v _RCON RCON `VEuc  1 e 1 @4048 ]
+"6183
+[v _T0CON T0CON `VEuc  1 e 1 @4053 ]
+"6701
+[v _INTCON INTCON `VEuc  1 e 1 @4082 ]
+"16 C:\Users\Noctis\Documents\Compus-fase-2-practica-2\Fase_2.X\main.c
 [v _main main `(v  1 e 1 0 ]
 {
-"13
+"24
+} 0
+"12
+[v _setup setup `(v  1 e 1 0 ]
+{
+"14
 } 0
