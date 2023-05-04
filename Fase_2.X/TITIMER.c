@@ -4,8 +4,8 @@
 // Desembre de 2001. FEC. Ajustat per al Fujitsu 90583
 // Març de 2010. FEC. Ajustat per al PIC24 (com passen els anys...)
 // 
-#include "tittimer.h"
-#include <p18f4321.h>
+#include "TITIMER.h"
+#include <pic18f4321.h>
 
 
 //
